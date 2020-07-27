@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Capa_1" style="enable-background:new 0 0 512 512;" viewBox="0 0 512 512" x="0px" y="0px" width="512px" height="512px" xml:space="preserve" version="1.1"><g><g>
+	<g>
+		<g>
+			<circle class="active-path" cx="386" cy="210" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<path class="active-path" d="M 432 40 h -26 V 20 c 0 -11.046 -8.954 -20 -20 -20 c -11.046 0 -20 8.954 -20 20 v 20 h -91 V 20 c 0 -11.046 -8.954 -20 -20 -20 c -11.046 0 -20 8.954 -20 20 v 20 h -90 V 20 c 0 -11.046 -8.954 -20 -20 -20 s -20 8.954 -20 20 v 20 H 80 C 35.888 40 0 75.888 0 120 v 312 c 0 44.112 35.888 80 80 80 h 153 c 11.046 0 20 -8.954 20 -20 c 0 -11.046 -8.954 -20 -20 -20 H 80 c -22.056 0 -40 -17.944 -40 -40 V 120 c 0 -22.056 17.944 -40 40 -40 h 25 v 20 c 0 11.046 8.954 20 20 20 s 20 -8.954 20 -20 V 80 h 90 v 20 c 0 11.046 8.954 20 20 20 s 20 -8.954 20 -20 V 80 h 91 v 20 c 0 11.046 8.954 20 20 20 c 11.046 0 20 -8.954 20 -20 V 80 h 26 c 22.056 0 40 17.944 40 40 v 114 c 0 11.046 8.954 20 20 20 c 11.046 0 20 -8.954 20 -20 V 120 C 512 75.888 476.112 40 432 40 Z" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<path class="active-path" d="M 391 270 c -66.72 0 -121 54.28 -121 121 s 54.28 121 121 121 s 121 -54.28 121 -121 S 457.72 270 391 270 Z M 391 472 c -44.663 0 -81 -36.336 -81 -81 s 36.337 -81 81 -81 c 44.663 0 81 36.336 81 81 S 435.663 472 391 472 Z" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<path class="active-path" d="M 420 371 h -9 v -21 c 0 -11.046 -8.954 -20 -20 -20 c -11.046 0 -20 8.954 -20 20 v 41 c 0 11.046 8.954 20 20 20 h 29 c 11.046 0 20 -8.954 20 -20 C 440 379.954 431.046 371 420 371 Z" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="299" cy="210" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="212" cy="297" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="125" cy="210" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="125" cy="297" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="125" cy="384" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="212" cy="384" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+			<circle class="active-path" cx="212" cy="210" r="20" data-original="#000000" data-old_color="#000000" fill="#00AF80"/>
+		</g>
+	</g>
+</g></g> </svg>
